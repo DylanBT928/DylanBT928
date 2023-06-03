@@ -1,4 +1,4 @@
-### Hi there 👋
+### ![DylanBT928's GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanBT928&theme=dracula&show_icons=true)
 
 <!--
 **DylanBT928/DylanBT928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
