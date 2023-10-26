@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Dylan's GitHub Profile 👋 </h1>
-<p align="center">Currently learning C++, Java, and JavaScript</p>
+<p align="center">Currently a Senior in High School</p>
 
 ## 💻 Statistics
 | ![DylanBT928's GitHub stats](https://github-readme-stats-dylans-projects-9d894771.vercel.app/api?username=DylanBT928&theme=gotham&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanBT928&layout=compact&theme=gotham) <br/><br/> ![Github views](https://komarev.com/ghpvc/?username=DylanBT928&style=flat-square&color=brightgreen) |
