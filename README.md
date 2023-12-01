@@ -2,8 +2,12 @@
 <p align="center">Currently a Senior in High School</p>
 
 ## 💻 Statistics
-| ![DylanBT928's GitHub stats](https://github-readme-stats-dylans-projects-9d894771.vercel.app/api?username=DylanBT928&theme=gotham&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanBT928&layout=compact&theme=gotham) <br/><br/> ![Github views](https://komarev.com/ghpvc/?username=DylanBT928&style=flat-square&color=brightgreen) |
-|--------------|--------------|
+<div>
+    <img height="210" src="https://github-readme-stats-dylans-projects-9d894771.vercel.app/api?username=DylanBT928&theme=gotham&show_icons=true&include_all_commits=true"/>
+    <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanBT928&layout=compact&theme=gotham&langs_count=8"/>
+<div>
+
+![Github views](https://komarev.com/ghpvc/?username=DylanBT928&style=flat-square&color=brightgreen)
 
 ## 🌎 Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
