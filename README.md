@@ -9,6 +9,15 @@
 
 ![Github views](https://komarev.com/ghpvc/?username=DylanBT928&style=flat-square&color=brightgreen)
 
+## ⌛ Currently Working On
+
+<a href="https://github.com/DylanBT928/RetroFPS">
+    <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=DylanBT928&repo=RetroFPS&theme=gotham" />
+</a>
+<a href="https://github.com/DylanBT928/sorting-visualizer">
+    <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=DylanBT928&repo=sorting-visualizer&theme=gotham" />
+</a>
+
 ## 🌎 Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
