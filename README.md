@@ -1,16 +1,12 @@
-<h1 align="center"> 👋 Dylan's GitHub Profile 👋 </h1>
-<p align="center">Solo Software Developer in California</p>
-
-<div align="center">
-
-![Github views](https://komarev.com/ghpvc/?username=DylanBT928&style=flat-square&color=brightgreen)
-
-</div>
+![Banner](./banner.png)
 
 ## 💻 Statistics
 <div>
     <img height="210" src="https://github-readme-stats-dylans-projects-9d894771.vercel.app/api?username=DylanBT928&theme=gotham&show_icons=true&include_all_commits=true"/>
     <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanBT928&layout=compact&theme=gotham&langs_count=8&size_weight=0.5&count_weight=0.5"/>
+
+![Github views](https://komarev.com/ghpvc/?username=DylanBT928&style=flat-square&color=brightgreen)
+    
 </div>
 
 ## ⌛ Currently Working On
@@ -29,4 +25,5 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+<!-- banner from https://github.com/leviarista/github-profile-header-generator -->
 <!-- badges from https://github.com/Ileriayo/markdown-badges -->
