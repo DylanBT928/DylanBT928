@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Dylan's GitHub Profile 👋 </h1>
-<p align="center">Currently a Senior in High School</p>
+<p align="center">Solo Software Developer in California</p>
 
 <div align="center">
 
