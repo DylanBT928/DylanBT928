@@ -1,6 +1,6 @@
 ![Banner](./banner.png)
 
-Hi there 👋, welcome to my GitHub profile! I'm Dylan Tran student attending HS who aspires to become a software engineer.
+Hi there 👋, welcome to my GitHub profile! I am Dylan Tran, a student attending HS, who aspires to become a software engineer.
 
 Some projects you may find interesting:
 - **Graphics** - [Sorting Visualizer](https://github.com/DylanBT928/sorting-visualizer), [Raycasting](https://github.com/DylanBT928/raycasting)
