@@ -1,11 +1,11 @@
 ![Banner](./banner.png)
 
-Hi there 👋, welcome to my GitHub profile! I am Dylan Tran, a student attending HS, who aspires to become a software engineer.
+Hi there 👋, welcome to my GitHub profile! I am Dylan Tran, a student currently attending HS, who aspires to become a software engineer.
 
 Some projects you may find interesting:
-- **Graphics** - [Sorting Visualizer](https://github.com/DylanBT928/sorting-visualizer), [Raycasting](https://github.com/DylanBT928/raycasting)
+- **Visual** - [Sorting Visualizer](https://github.com/DylanBT928/sorting-visualizer), [Raycasting](https://github.com/DylanBT928/raycasting)
 - **Games** - [RetroFPS](https://github.com/DylanBT928/RetroFPS), [Berry Bounty](https://github.com/DylanBT928/berry-bounty)
-- **Learning** - [Small Projects](https://github.com/DylanBT928/small-projects), [LeetCode](https://github.com/DylanBT928/leetcode)
+- **Practice** - [Small Projects](https://github.com/DylanBT928/small-projects), [LeetCode](https://github.com/DylanBT928/leetcode)
 
 ![Github views](https://komarev.com/ghpvc/?username=DylanBT928&style=flat-square&color=brightgreen)
 
