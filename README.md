@@ -1,5 +1,3 @@
-![Banner](./banner.png)
-
 Hi there 👋, welcome to my GitHub profile! I am Dylan Tran, a student currently attending HS, who aspires to become a software engineer.
 
 Some projects you may find interesting:
