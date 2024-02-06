@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-- Aspiring Software Engineer and Back-end Developer
+- Aspiring Software Engineer and Back-End Developer
 - Currently attending LQHS as a senior
 - Hoping to major in Computer Science at the undergraduate level
 
