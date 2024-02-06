@@ -1,9 +1,15 @@
-Hi there 👋, welcome to my GitHub profile! I am Dylan Tran, a senior in HS, who is working towards becoming a back-end software engineer.
+# Hi, I'm Dylan Tran! 👋
+
+Welcome to my GitHub profile!
+
+- Aspiring Software Engineer and Back-end Developer
+- Currently attending LQHS as a senior
+- Hoping to major in Computer Science at the undergraduate level
 
 Some projects you may find interesting:
 - **Visual** - [Sorting Visualizer](https://github.com/DylanBT928/sorting-visualizer), [3D Renderer](https://github.com/DylanBT928/3d-renderer)
 - **Games** - [Raycasting](https://github.com/DylanBT928/raycasting), [RetroFPS](https://github.com/DylanBT928/RetroFPS), [Berry Bounty](https://github.com/DylanBT928/berry-bounty)
-- **Misc.** - [TimeBot](https://github.com/DylanBT928/TimeBot), [Small Projects](https://github.com/DylanBT928/small-projects)
+- **Discord Bot** - [TimeBot](https://github.com/DylanBT928/TimeBot)
 
 ## 💻 Statistics
 <div>
