@@ -7,8 +7,8 @@ Welcome to my GitHub profile!
 - Hoping to major in Computer Science at the undergraduate level
 
 Some projects you may find interesting:
-- **Visual** - [Sorting Visualizer](https://github.com/DylanBT928/sorting-visualizer), [3D Renderer](https://github.com/DylanBT928/3d-renderer)
-- **Games** - [Raycasting](https://github.com/DylanBT928/raycasting), [RetroFPS](https://github.com/DylanBT928/RetroFPS), [Berry Bounty](https://github.com/DylanBT928/berry-bounty)
+- **Visual** - [Sorting Visualizer](https://github.com/DylanBT928/sorting-visualizer), [Raycasting](https://github.com/DylanBT928/raycasting), [3D Renderer](https://github.com/DylanBT928/3d-renderer)
+- **Games** - [RetroFPS](https://github.com/DylanBT928/RetroFPS), [Berry Bounty](https://github.com/DylanBT928/berry-bounty)
 - **Discord Bot** - [TimeBot](https://github.com/DylanBT928/TimeBot)
 
 ## 💻 Statistics
