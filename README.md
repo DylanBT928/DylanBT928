@@ -9,7 +9,6 @@ Welcome to my GitHub profile!
 Some projects you may find interesting:
 - **Visual** - [Sorting Visualizer](https://github.com/DylanBT928/sorting-visualizer), [Raycasting](https://github.com/DylanBT928/raycasting), [3D Renderer](https://github.com/DylanBT928/3d-renderer)
 - **Games** - [RetroFPS](https://github.com/DylanBT928/RetroFPS), [Berry Bounty](https://github.com/DylanBT928/berry-bounty)
-- **Discord Bot** - [TimeBot](https://github.com/DylanBT928/TimeBot)
 
 ## 💻 Statistics
 <div>
