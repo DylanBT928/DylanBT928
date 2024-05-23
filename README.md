@@ -3,8 +3,8 @@
 Welcome to my GitHub profile!
 
 - Aspiring Software Engineer and Back-End Developer
-- Currently attending LQHS as a senior
-- Hoping to major in Computer Science at the undergraduate level
+- Will be attending UC Irvine as a Freshman
+- Majoring in Computer Science at the undergraduate level
 
 Some projects you may find interesting:
 - **Graphics** - [Raycasting](https://github.com/DylanBT928/raycasting), [3D Renderer](https://github.com/DylanBT928/3d-renderer)
