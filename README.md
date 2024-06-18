@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile!
 
-- Aspiring Software Engineer and Back-End Developer
-- Will be attending UC Irvine as a Freshman
+- Currently a Freshman at UC Irvine
+- Attending the Donald Bren School of Information and Computer Sciences
 - Majoring in Computer Science at the undergraduate level
 
 Some projects you may find interesting:
