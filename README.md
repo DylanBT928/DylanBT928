@@ -7,8 +7,7 @@ Welcome to my GitHub profile!
 - Majoring in Computer Science at the undergraduate level
 
 Some projects you may find interesting:
-- **Graphics** - [Raycasting](https://github.com/DylanBT928/raycasting), [3D Renderer](https://github.com/DylanBT928/3d-renderer)
-- **Algorithms** - [Sorting Visualizer](https://github.com/DylanBT928/sorting-visualizer)
+- **Graphics** - [GUI Calculator](https://github.com/DylanBT928/gui-calculator)
 
 ## 💻 Statistics
 <div>
