@@ -7,5 +7,9 @@ I am Dylan, a passionate developer with a keen interest in real-time graphics, s
 - Majoring in Computer Science at the undergraduate level
 
 Some projects you may find interesting:
-- **SFML** - [GUI Calculator](https://github.com/DylanBT928/gui-calculator)
-- **OpenGL** - [Raycasting](https://github.com/DylanBT928/raycasting)
+- [**FlexQuest**](https://github.com/DylanBT928/FlexQuest) - Workout & Calorie Tracker | TypeScript, React
+- [**Raycasting**](https://github.com/DylanBT928/raycasting) - Graphical Rendering Algorithm | C++, GLFW
+- [**GUI Calculator**](https://github.com/DylanBT928/gui-calculator) Interactive Arithmetic Calculator | C++, SFML
+
+Currently Working On:
+- [**Chess Engine**](https://github.com/DylanBT928/chess-engine) - Python-Powered Chess Gameplay | Python, Pygame
