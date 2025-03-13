@@ -10,8 +10,7 @@ I am Dylan, a passionate developer with a keen interest in real-time graphics, s
 ## 🔧 Technologies & Tools
 
 - **Languages**: C++, Python, Java, HTML/CSS, JavaScript, TypeScript
-- **Frameworks & Libraries**: React, OpenGL, Pygame
-- **Version Control**: Git, GitHub
+- **Frameworks & Libraries**: React, OpenGL, Pygame, SFML, GLFW
 - **Build Systems**: CMake
 - **Game Development**: Unreal Engine
 
