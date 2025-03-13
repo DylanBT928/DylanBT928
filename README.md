@@ -4,7 +4,7 @@ I am Dylan, a passionate developer with a keen interest in real-time graphics, s
 
 - Currently a Freshman at UC Irvine
 - Majoring in Computer Science at the undergraduate level
-- Working on [Chess Engine](https://github.com/DylanBT928/chess-engine)
+- Working on [Gravity Sim](https://github.com/DylanBT928/gravity-sim)
 
 
 ## 🔧 Technologies & Tools
