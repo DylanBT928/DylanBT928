@@ -1,23 +1,11 @@
-# Welcome to my GitHub Profile, I'm Dylan Tran! 👋
+<h2 align=center>hi, i'm dylan and welcome to my github!</h2>
 
-I am Dylan, a passionate developer with a keen interest in real-time graphics, simulation programming, and developing 3D visualizations, pushing the limits of performance and realism in interactive systems.
-
-- Currently a Freshman at UC Irvine
-- Majoring in Computer Science at the undergraduate level
-
-
-## 🔧 Technologies & Tools
-
-- **Languages**: C++, Python, Java, HTML/CSS, JavaScript, TypeScript
-- **Frameworks & Libraries**: React, OpenGL, Pygame, SFML, GLFW
-- **Build Systems**: CMake
-- **Game Development**: Unreal Engine
-
-
-## 📫 Contact
-
-Feel free to reach out to me through the following channels:
-
-- **Email**: [dylanbt928@gmail.com](mailto:dylanbt928@gmail.com)
-- **LinkedIn**: [@dylantran928](https://www.linkedin.com/in/dylantran928/)
-- **Instagram**: [@dylantran7](https://www.instagram.com/dylantran7/)
+```cpp
+class AboutMe:
+    name = "Dylan Tran"
+    pronouns = "he/him"
+    university = "University of California, Irvine"
+    major = "Computer Science"
+    graduation = "2028"
+    interests = ["Backend Development", "Visual Computing", "Computer Graphics"]
+```
