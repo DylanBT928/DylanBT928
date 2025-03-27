@@ -1,6 +1,6 @@
 <h2 align=center>hi, i'm dylan and welcome to my github!</h2>
 
-```cpp
+```py
 class AboutMe:
     name = "Dylan Tran"
     pronouns = "he/him"
