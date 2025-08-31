@@ -7,5 +7,5 @@ class AboutMe:
     university = "University of California, Irvine"
     major = "Computer Science"
     graduation = "2028"
-    interests = ["Backend Development", "Computer Graphics", "Low-Level Programming"]
+    interests = ["Kernel Development", "Computer Graphics", "Backend Programming"]
 ```
