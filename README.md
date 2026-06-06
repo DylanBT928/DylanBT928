@@ -9,7 +9,7 @@ struct AboutMe
     const char* major{ "Computer Science" };
     std::uint16_t graduation{ 2028 };
     std::vector<const char*> interests = {
-        "Embedded Systems",
+        "Systems Programming",
         "Kernel Development",
         "Computer Graphics"
     };
